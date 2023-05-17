@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string name="choose_your_favourite_color">Choose Your Favourite Color</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+</resources>
